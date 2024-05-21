@@ -3,7 +3,7 @@
 
 L.I.N.U.X
 
-git  clone  https://github.com/ATOMIX955/REMUSIC.git
+git clone https://github.com/ATOMIX955/REMUSIC.git
 
 python Remusic.py
 
