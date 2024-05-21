@@ -10,6 +10,8 @@ pip install python
 
 git clone https://github.com/ATOMIX955/REMUSIC.git
 
+chmod 777 requirements.txt
+
 python Remusic.py
 
 
