@@ -3,7 +3,10 @@
 
 L.I.N.U.X 
 
-apt update && apt-get update
+pkg update && apt-get update
+
+pkg install git
+pip install python
 
 git clone https://github.com/ATOMIX955/REMUSIC.git
 
